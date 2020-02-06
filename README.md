@@ -1,4 +1,16 @@
-Hi
+Hi Cellurl here.
+
+I want to control an RC car from far far away.
+So I want to use linphone and put bluetooth SPP in it.
+
+If someone has already done this, please please point me to it!
+
+There are 400 forks of linphone, perhaps I can grep SPP thru them and save me some time...
+
+gpscruise g mail
+Jim
+Memphis
+
 
 
 

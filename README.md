@@ -12,6 +12,8 @@ If someone has already done this, please please point me to it!
 
 There are 400 forks of linphone, I dont know how to find interest in this....
 
+I can paypal $20 if someone can put SPP into this. Sorry its so low, I know its insulting, but thats all I have....
+
 Thanks for reading!
 Jim
 Memphis

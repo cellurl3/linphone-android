@@ -5,7 +5,7 @@ I am not a terrorist (google me), I work for FedEx but this is a side hobby. Cal
 
 So I want to modify linphone to replace the headphone Bluetooth with SPP Bluetooth.
 
-The bluetooth-SPP will inject into the linkphone-CHAT messages like "DRIVE FAST", "TURN LEFT".
+The bluetooth-SPP will inject into the linphone-CHAT messages like "DRIVE FAST", "TURN LEFT".
 
 
 If someone has already done this, please please point me to it!

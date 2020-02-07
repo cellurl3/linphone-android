@@ -1,7 +1,7 @@
 Hi Cellurl here.
 
 I want to control an RC car from far far away.
-I am not a terrorist (google me), I work for FedEx but this is a side hobby. Call anytime. 901 213 7824 gpscruise@gmail.com
+I am not a terrorist (google me), I work for FedEx but this is a side hobby. Call anytime. 901 213 7824 gpscruise g mail
 
 So I want to modify linphone to replace the headphone Bluetooth with SPP Bluetooth.
 
